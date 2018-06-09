@@ -1,0 +1,8 @@
+title: 一派胡言 QunTalk.com
+description: 刘立群
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
